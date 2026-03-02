@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オレたちのすすむ道を悲しみで閉ざさないで",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T15:46:35.600198Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オレたちのすすむ道を悲しみで閉ざさないで",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_オレたちのすすむ道を悲しみで閉ざさないで_サンボマスター.txt"
+    }
+  ]
+}
